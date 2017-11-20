@@ -1,0 +1,12 @@
+{
+    "name": "sunxuewu/mit-demo",
+    "description": "JUST MIT study",
+    "license": "MIt",
+    "authors": [
+        {
+            "name": "sunxuewu",
+            "email": "562719470@qq.com"
+        }
+    ],
+    "require": {}
+}
